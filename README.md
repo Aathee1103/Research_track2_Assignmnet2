@@ -32,7 +32,7 @@ The histogram plot shows the time taken to reach the target by the robot wn it i
 run the command below to launch the simulation and all the required nodes.
 ```roslaunch rt2_assignment2 sim.launch```
 - In the second tab:
-- run the command to open jupyter notebook.
+run the command to open jupyter notebook.
 ```jupyter notebook --allow-root```
 and open the notebook named as **jupyter_505150.ipynb** .
 
