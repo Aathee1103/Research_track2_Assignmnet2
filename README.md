@@ -9,7 +9,7 @@ This button is used to manually start and stop the robot and also the robot can 
 ![but_jupy](https://user-images.githubusercontent.com/80621864/154955314-6963db8c-23d2-49e4-811a-2452e962a76c.jpg)
 
 ### Robot's moving position in real time:
-It is a live plot that shows the real-time state of the robot and this plot is an x,y plot and used to visualize the position of robot and also the path through which the robot is moving in gazebo environment.
+It is a live plot that shows the real-time state of the robot and this plot is an x,y plot and used to visualize the position of robot and also the path through which the robot is moving in gazebo environment.A diamond shaped black line will show the movement of robot.
 ![map_jupy](https://user-images.githubusercontent.com/80621864/154955780-9474e2e9-7205-48a8-a9d6-31f4c7c4ab6a.jpg)
 
 ### Velocity visualization plot:
