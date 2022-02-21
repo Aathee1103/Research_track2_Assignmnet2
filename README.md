@@ -15,7 +15,7 @@ It is a live plot that shows the real-time state of the robot and this plot is a
 ### Velocity visualization plot:
 This plot helps to visualize the **cmd_vel** against the **odom(actual velocity)**.it shows for both in linear and angular poistions.
 
-![Screenshot 2022-02-21 114438](https://user-images.githubusercontent.com/80621864/154956187-c5c24725-6045-499d-8544-8cb020882c2d.jpg) ![Screenshot 2022-02-21 114438](https://user-images.githubusercontent.com/80621864/154956224-bf604e9b-ce87-458d-881a-e5d8fec5799a.jpg) ![Screenshot 2022-02-21 114343](https://user-images.githubusercontent.com/80621864/154956251-a9522580-93a5-4e4a-8cb1-444f4b790fdc.jpg) ![vel_jupy](https://user-images.githubusercontent.com/80621864/154956271-f240dbb2-2922-44da-ba1d-ef6c77697306.jpg)
+![Screenshot 2022-02-21 114438](https://user-images.githubusercontent.com/80621864/154956187-c5c24725-6045-499d-8544-8cb020882c2d.jpg) ![Screenshot 2022-02-21 114414](https://user-images.githubusercontent.com/80621864/154957806-3044a32b-0ba2-490a-8863-b9f7fdbf1c4c.jpg) ![Screenshot 2022-02-21 114343](https://user-images.githubusercontent.com/80621864/154956251-a9522580-93a5-4e4a-8cb1-444f4b790fdc.jpg) ![vel_jupy](https://user-images.githubusercontent.com/80621864/154956271-f240dbb2-2922-44da-ba1d-ef6c77697306.jpg)
 
 ### Bar plot:
 Bar plot is used for showing the number of target reached and the number of target that as cancelled by the user.
